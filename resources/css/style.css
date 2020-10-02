@@ -2,14 +2,28 @@ body{
     background-color: black;
     color:white;
     text-align: center;
+    font-family: Verdana;
 }
 
 h1{
-    font-family: Verdana;
     font-size: 50px;
+}
+
+h2{
+    font-size: 42px;
+    font-weight:300; 
 }
 
 a{
     color:aquamarine;
     font-size: 16px; 
+}
+
+p{
+    font-size: 21px;
+    color:gray;
+}
+
+.copywright{
+    text-align: right;
 }
