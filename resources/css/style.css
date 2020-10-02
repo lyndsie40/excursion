@@ -24,6 +24,11 @@ p{
     color:gray;
 }
 
+video{
+    border:none;
+    box-shadow: none;
+}
+
 .copywright{
     text-align: right;
 }
